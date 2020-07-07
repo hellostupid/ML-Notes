@@ -3,12 +3,12 @@
 ps：如果我的笔记对你有帮助，给个star叭！
 
 
-##### pages
+##### 在线阅读地址
 
 the github page is: https://scarleatt.github.io/categories/ML-notes/
 
 
-##### html链接：
+##### 目录
 
 [1_Gradient Descent]( https://scarleatt.github.io/2020/06/04/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/)
 
